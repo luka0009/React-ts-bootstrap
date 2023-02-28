@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "author": "Milan Kundera",
+      "title": "Unbearable lightness of being",
+      "description": "The Unbearable Lightness of Being is a 1984 novel by Milan Kundera, about two women, two men, a dog, and their lives in the 1968 Prague Spring period of Czechoslovak history.",
+      "price": 10.99,
+      "imgUrl": "https://i.harperapps.com/covers/9780060597184/y648.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Rainer Maria Rilke",
+      "title": "Sonnets to Orpheus",
+      "description": "The Sonnets to Orpheus are a cycle of 55 sonnets written in 1922 by the Bohemian-Austrian poet Rainer Maria Rilke. It was first published the following year.",
+      "price": 10.99,
+      "imgUrl": "https://tmm.chicagodistributioncenter.com/IsbnImages/9781589661608.jpg"
+    },
+    {
+      "id": 3,
+      "author": "Goderdzi Chokheli",
+      "title": "Human Sadness",
+      "description": "Goderdzi Chokheli’s literary world as an unveiled secret grew in between the visible and invisible, actual and dreamy, real and mythical. The world has opened for him. And now the writer tries to share this secret with others. With incredible mercy and simplicity he sets up in the reader an inner readiness to make us believe in the greater; In the smaller, in the eternal and in the impermanent – the divine in a human.",
+      "price": 10.99,
+      "imgUrl": "https://saba.com.ge/content/images/book/o/dec2f264941b4fe99f4a0be16ca81f8d.png"
+    },
+    {
+      "id": 4,
+      "author": "Haruki Murakami",
+      "title": "A wild sheep chase",
+      "description": "A Wild Sheep Chase is the third novel by Japanese author Haruki Murakami. First published in Japan in 1982, it was translated into English in 1989. It is an independent sequel to Pinball, 1973, and the third book in the so-called 'Trilogy of the Rat'.",
+      "price": 10.99,
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630485146i/11298.jpg"
+    }
+  ]
